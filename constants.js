@@ -6,6 +6,7 @@ const MOVE_DOWN_KEY = "s";
 const MOVE_RIGHT_KEY = "d";
 const MESSAGE_ON_P = "hello!";
 const MESSAGE_ON_O = "out of the way!";
+const NAME = "TL";
 
 module.exports = {
   IP,
@@ -15,5 +16,6 @@ module.exports = {
   MOVE_DOWN_KEY,
   MOVE_RIGHT_KEY,
   MESSAGE_ON_P,
-  MESSAGE_ON_O
+  MESSAGE_ON_O,
+  NAME
 };
